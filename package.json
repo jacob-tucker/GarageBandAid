@@ -1,0 +1,24 @@
+{
+  "name": "v11-boilerplate",
+  "version": "1.0.0",
+  "description": "Boilerplate examples for V11",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/InclusiveTechNU/v11-boilerplate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/InclusiveTechNU/v11-boilerplate/issues"
+  },
+  "homepage": "https://github.com/InclusiveTechNU/v11-boilerplate#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0",
+    "v11": "0.4.0"
+  }
+}
